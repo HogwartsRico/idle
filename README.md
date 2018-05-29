@@ -3,13 +3,38 @@
 Parse source code (Objective-C) to UML(Class Diagram) file format of plantuml.
 
 
-# Example
+# version
 
-## AFNetworking Class Diagram
+## 0.0.3-beta
+
+### Example
+
+#### web front objective-c
+![AFNetworking](https://raw.githubusercontent.com/AwayQu/idle/master/imgs/idle0.0.3-demo.gif)
+
+
+#### snapshot java support
+
+![Java](https://raw.githubusercontent.com/AwayQu/idle/master/imgs/idle0.0.3-snapshot.png)
+
+
+### Usage
+
+* download the idlerest0.0.3.jar
+
+* run `java -jar idlerest0.0.3.jar`
+
+* visit http://localhost:8080 (support local project path & git url)
+
+
+## 0.0.1-alpha
+### Example
+
+### AFNetworking Class Diagram
 ![AFNetworking](https://raw.githubusercontent.com/AwayQuEM/idle/master/imgs/AFNetworking.png)
 
 
-# Usage
+### Usage
 
 ```shell
 
