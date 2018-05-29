@@ -20,7 +20,7 @@ Parse source code (Objective-C) to UML(Class Diagram) file format of plantuml.
 
 ### Usage
 
-* download the idlerest0.0.3.jar
+* download the [idlerest0.0.3.jar](https://github.com/AwayQu/idle/releases/download/0.0.3-beta/idlerest-0.0.3.jar)
 
 * run `java -jar idlerest0.0.3.jar`
 
