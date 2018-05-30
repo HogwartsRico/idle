@@ -1,11 +1,23 @@
 # idle
 
-Parse source code (Objective-C) to UML(Class Diagram) file format of plantuml.
+> parse source code file to uml.
+
+# Partener Wanted
+
+A `web front-end` all-round worker. To implement a d3-uml support big data uml render and interact.
+
+A `language server protocol` all-round worker. To support `languager server protocol` then publish with ide like `vscode` & `atom`.
+
+A `ascii art` all-round worker. To support render with ascii.
 
 
-# version
+# Version
 
 ## 0.0.3-beta
+
+### Description
+
+Parse source code (Objective-C, Java) to UML(Class Diagram) render in web front.
 
 ### Example
 
@@ -28,6 +40,11 @@ Parse source code (Objective-C) to UML(Class Diagram) file format of plantuml.
 
 
 ## 0.0.1-alpha
+
+### Description
+
+Parse source code (Objective-C) to UML(Class Diagram) file format of plantuml.
+
 ### Example
 
 ### AFNetworking Class Diagram
